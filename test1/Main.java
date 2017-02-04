@@ -5,8 +5,10 @@ public class Main {
 		Scanner sc=new Scanner(System.in);
 		int x=sc.nextInt();
 		System.out.println((int)((x-32)*(5.0/9)));
-		//µÚÒ»´ÎÐÞ¸ÄÌá½»
+		//ç¬¬ä¸€æ¬¡ä¿®æ”¹
 		//1111111111111
+		//ç¬¬äºŒæ¬¡ä¿®æ”¹
+		//22222222222
 	}
 
 }
